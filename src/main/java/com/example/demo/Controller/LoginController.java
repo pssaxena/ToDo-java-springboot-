@@ -9,6 +9,6 @@ public class LoginController {
 	@RequestMapping()
     @ResponseBody
 	public String loginMessage(){
-		return "Hello World";
+		return "Hello World modified";
 	}
 }
